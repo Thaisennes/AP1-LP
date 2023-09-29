@@ -1,0 +1,15 @@
+/Users/thaisseixas/Documents/faculdade/laboratorio de programação/AP1/bin/Debug/net7.0/AP1
+/Users/thaisseixas/Documents/faculdade/laboratorio de programação/AP1/bin/Debug/net7.0/AP1.deps.json
+/Users/thaisseixas/Documents/faculdade/laboratorio de programação/AP1/bin/Debug/net7.0/AP1.runtimeconfig.json
+/Users/thaisseixas/Documents/faculdade/laboratorio de programação/AP1/bin/Debug/net7.0/AP1.dll
+/Users/thaisseixas/Documents/faculdade/laboratorio de programação/AP1/bin/Debug/net7.0/AP1.pdb
+/Users/thaisseixas/Documents/faculdade/laboratorio de programação/AP1/obj/Debug/net7.0/AP1.csproj.AssemblyReference.cache
+/Users/thaisseixas/Documents/faculdade/laboratorio de programação/AP1/obj/Debug/net7.0/AP1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thaisseixas/Documents/faculdade/laboratorio de programação/AP1/obj/Debug/net7.0/AP1.AssemblyInfoInputs.cache
+/Users/thaisseixas/Documents/faculdade/laboratorio de programação/AP1/obj/Debug/net7.0/AP1.AssemblyInfo.cs
+/Users/thaisseixas/Documents/faculdade/laboratorio de programação/AP1/obj/Debug/net7.0/AP1.csproj.CoreCompileInputs.cache
+/Users/thaisseixas/Documents/faculdade/laboratorio de programação/AP1/obj/Debug/net7.0/AP1.dll
+/Users/thaisseixas/Documents/faculdade/laboratorio de programação/AP1/obj/Debug/net7.0/refint/AP1.dll
+/Users/thaisseixas/Documents/faculdade/laboratorio de programação/AP1/obj/Debug/net7.0/AP1.pdb
+/Users/thaisseixas/Documents/faculdade/laboratorio de programação/AP1/obj/Debug/net7.0/AP1.genruntimeconfig.cache
+/Users/thaisseixas/Documents/faculdade/laboratorio de programação/AP1/obj/Debug/net7.0/ref/AP1.dll
